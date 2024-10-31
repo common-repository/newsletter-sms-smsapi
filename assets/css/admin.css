@@ -1,0 +1,99 @@
+.form-table textarea, .form-table select {
+    width: 25em;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.alert-success {
+    color: #3C763D;
+    background-color: #DFF0D8;
+    border-color: #D6E9C6;
+}
+
+.alert-danger {
+    color: #A94442;
+    background-color: #F2DEDE;
+    border-color: #EBCCD1;
+}
+
+.alert-warning {
+    color: #8A6D3B;
+    background-color: #FCF8E3;
+    border-color: #FAEBCC;
+}
+
+.text-danger {
+    color: #A94442;
+}
+
+.description-warning {
+    color: #8A6D3B !important;
+    background-color: #FCF8E3;
+    border-color: #FAEBCC;
+    padding: 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    color: #FFF;
+    background-color: #337AB7;
+    border-color: #2E6DA4;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    text-decoration: none;
+}
+
+.btn-default{
+    color:#333;
+    background-color:#fff;
+    border-color:#ccc
+}
+
+.btn-default:hover{
+    color:#333;
+    background-color:#e6e6e6;
+    border-color:#adadad
+}
+
+.btn-primary:hover{
+    color:#fff;
+    background-color:#286090;
+    border-color:#204d74
+}
+
+.btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33333;
+    border-radius: 6px;
+}
+
+table.attrs tr td:first-child, table.attrs tr th:first-child
+{
+    width:10px;
+}

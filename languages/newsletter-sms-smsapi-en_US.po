@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsletter SMS - SMSAPI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-09 09:46+0000\n"
+"PO-Revision-Date: 2021-04-09 09:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: newsletter-sms-smsapi"
+
+#: views/admin/settings/general.php:33 views/admin/settings/general.php:65
+msgid "-- select --"
+msgstr ""
+
+#: views/admin/subscribers/list.php:28 views/admin/subscribers/list.php:61
+msgid "Actions"
+msgstr ""
+
+#: views/admin/subscribers/list.php:76
+msgid "Actions on all subscribers"
+msgstr ""
+
+#: views/admin/subscribers/list.php:69
+msgid "Actions on selected subscribers"
+msgstr ""
+
+#: ajax/subscription.php:78
+msgid "Activation code was sent to your phone number."
+msgstr ""
+
+#: views/admin/settings/general.php:52
+msgid "Add new group"
+msgstr ""
+
+#: views/admin/settings/subscription.php:19
+msgid "Additional attributes to save"
+msgstr ""
+
+#: views/admin/gateway/index.php:32
+msgid "All"
+msgstr ""
+
+#: widget.php:7
+msgid "Allow to connect phone numbers."
+msgstr ""
+
+#: views/admin/settings/login.php:7 views/admin/settings/general.php:15
+msgid "API token"
+msgstr ""
+
+#: views/admin/settings/general.php:7
+msgid "API username"
+msgstr ""
+
+#: views/admin/subscribers/list.php:82
+msgid "Apply"
+msgstr ""
+
+#: views/admin/subscribers/list.php:99
+msgid "Are you sure you want to delete this subscriber from the server?"
+msgstr ""
+
+#: views/admin/settings/general.php:104
+msgid "Are you sure you want to log out?"
+msgstr ""
+
+#: views/admin/subscribers/list.php:102
+msgid ""
+"Are you sure you want to unpin this subscriber from the group? They will not "
+"be removed from the server."
+msgstr ""
+
+#: views/admin/subscribers/form.php:94
+msgid "Back"
+msgstr ""
+
+#: views/front/_subscribe_form.php:42 views/admin/settings/subscription.php:90
+#: views/admin/subscribers/form.php:78
+msgid "Birth date"
+msgstr ""
+
+#: gateway.php:44
+msgid "Cannot send sms, account balance is low"
+msgstr ""
+
+#: views/admin/settings/general.php:47
+msgid "Choose group information"
+msgstr ""
+"Selecting separate group for WordPress plugin is required due to full "
+"synchronization - if you delete all the contacts from within WordPress, all "
+"contacts will be removed in the selected group (even the ones added with the "
+"plugin)."
+
+#: views/front/_subscribe_form.php:34 views/admin/settings/subscription.php:76
+#: views/admin/subscribers/form.php:65
+msgid "City"
+msgstr ""
+
+#: views/front/_security_token_form.php:3
+msgid "Code from SMS"
+msgstr ""
+
+#: gateway.php:52 subscribers.php:47 settings.php:27 settings.php:92
+#: settings.php:107 settings.php:129
+msgid "Correct errors on the form and try again"
+msgstr ""
+
+#: settings.php:39 settings.php:90 settings.php:105 settings.php:127
+msgid "Data has been saved"
+msgstr ""
+
+#: subscribers.php:44
+msgid "Data was saved"
+msgstr ""
+
+#: views/front/_subscribe_form.php:46 views/admin/subscribers/form.php:87
+msgid "Date in year-month-day format, ex: 1971-01-01"
+msgstr ""
+
+#: views/admin/settings/general.php:62
+msgid "Default sendername"
+msgstr ""
+
+#: views/admin/widget_form.php:16
+msgid "Description"
+msgstr ""
+
+#: views/admin/subscribers/list.php:46
+msgid "Edit"
+msgstr ""
+
+#: views/front/_subscribe_form.php:26 views/admin/settings/subscription.php:60
+#: views/admin/subscribers/form.php:52 views/admin/subscribers/list.php:27
+#: views/admin/subscribers/list.php:60
+msgid "Email"
+msgstr ""
+
+#: views/admin/settings/subscription.php:14
+msgid "Enable sms authorization in subscription/cancellation process"
+msgstr ""
+
+#: views/admin/settings/general.php:81
+msgid "Enter default sendername used to send messages from plugin."
+msgstr ""
+
+#: views/admin/settings/general.php:56
+msgid "Enter name for new group."
+msgstr ""
+
+#: views/admin/settings/login.php:13
+msgid "Enter token information"
+msgstr ""
+"Enter you API token. It can be genereated at https://ssl.smsapi."
+"com/react/oauth/manage. Remember to set correct access rights. The minimum "
+"ones required by the plugin are  'Contacts', 'Profile', 'Users', 'SMS' and "
+"'Sendernames'."
+
+#: views/admin/error.php:6
+msgid "Error"
+msgstr ""
+
+#: views/admin/subscribers/list.php:71 views/admin/subscribers/list.php:77
+msgid "Export to CSV"
+msgstr ""
+
+#: views/admin/settings/subscription.php:20
+msgid "Field enabled"
+msgstr ""
+
+#: views/admin/settings/subscription.php:21
+msgid "Field required"
+msgstr ""
+
+#: views/pagination/basic.php:3 views/pagination/basic.php:5
+msgid "First"
+msgstr ""
+
+#: views/front/_subscribe_form.php:10 views/admin/settings/subscription.php:30
+#: views/admin/subscribers/form.php:26 views/admin/subscribers/list.php:25
+#: views/admin/subscribers/list.php:58
+msgid "First name"
+msgstr ""
+
+#: views/admin/settings/tabs.php:5
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://smsapi.com/"
+msgstr ""
+
+#: routing.php:8
+msgid ""
+"Invalid authorization data. Please make sure that your token has correct "
+"rights."
+msgstr ""
+
+#: views/pagination/basic.php:29 views/pagination/basic.php:31
+msgid "Last"
+msgstr ""
+
+#: views/front/_subscribe_form.php:18 views/admin/settings/subscription.php:45
+#: views/admin/subscribers/form.php:39 views/admin/subscribers/list.php:26
+#: views/admin/subscribers/list.php:59
+msgid "Last name"
+msgstr ""
+
+#: views/admin/settings/general.php:23
+msgid "Log out"
+msgstr ""
+
+#: views/admin/settings/notifications.php:20
+msgid "Message content"
+msgstr ""
+
+#: gateway.php:41
+msgid "Message was sent"
+msgstr ""
+
+#. Name of the plugin
+msgid "Newsletter SMS - SMSAPI"
+msgstr ""
+
+#: widget.php:8
+msgid "Newsletter SMSAPI - SMSAPI"
+msgstr ""
+
+#: widget.php:34
+msgid "Newsletter subscription"
+msgstr ""
+
+#: views/pagination/basic.php:23 views/pagination/basic.php:25
+msgid "Next"
+msgstr ""
+
+#: views/admin/subscribers/list.php:92
+msgid "No subscribers to show"
+msgstr ""
+
+#: views/admin/gateway/index.php:63
+msgid "Normalize message content"
+msgstr ""
+
+#: views/admin/settings/notifications.php:13
+msgid "Notification sent when user submits subscription form."
+msgstr ""
+
+#: views/admin/settings/tabs.php:14
+msgid "Notifications"
+msgstr ""
+
+#: views/admin/gateway/index.php:44
+msgid "Numbers separated by comma."
+msgstr ""
+
+#: views/front/_subscribe_form.php:3 views/front/_unsubscribe_form.php:3
+#: views/admin/subscribers/form.php:14 views/admin/subscribers/list.php:24
+#: views/admin/subscribers/list.php:57
+msgid "Phone number"
+msgstr ""
+
+#: ajax/subscription.php:144 ajax/subscription.php:223
+msgid "Phone number has been removed"
+msgstr ""
+
+#: settings.php:33 classes/SmsapiClientProxy.php:16
+msgid "Please configure API credentials."
+msgstr ""
+
+#: settings.php:40
+msgid "Please select group and sender name to finish settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin which allows you to create Newsletter which will collect clients "
+"phone numbers and allow you to send SMS messages to them. Database is "
+"synchronized with SMSAPI account so messages can be sent from SMSAPI panel "
+"as well."
+msgstr ""
+
+#: views/pagination/basic.php:9 views/pagination/basic.php:11
+msgid "Previous"
+msgstr ""
+
+#: views/admin/subscribers/list.php:48 views/admin/subscribers/list.php:73
+#: views/admin/subscribers/list.php:79
+msgid "Remove"
+msgstr ""
+
+#: views/admin/settings/login.php:23 views/admin/settings/general.php:87
+#: views/admin/settings/subscription.php:102
+#: views/admin/settings/notifications.php:27
+#: views/admin/subscribers/form.php:93
+msgid "Save"
+msgstr ""
+
+#: views/admin/settings/general.php:29
+msgid "Saved to group"
+msgstr ""
+
+#: views/admin/subscribers/list.php:15
+msgid "Search"
+msgstr ""
+
+#: views/admin/subscribers/list.php:12
+msgid "Search subscribers"
+msgstr ""
+
+#: views/front/_security_token_form.php:9 views/admin/gateway/index.php:73
+msgid "Send"
+msgstr ""
+
+#: smsapi.php:54 views/admin/subscribers/list.php:70
+msgid "Send SMS"
+msgstr ""
+
+#: views/admin/gateway/index.php:8
+msgid "Sendername"
+msgstr ""
+
+#: smsapi.php:53 smsapi.php:122
+msgid "Settings"
+msgstr ""
+
+#: views/admin/settings/notifications.php:7
+msgid "SMS notifications"
+msgstr ""
+
+#. Author of the plugin
+msgid "SMSAPI"
+msgstr ""
+
+#: views/admin/subscribers/list.php:6
+msgid "SMSAPI subscribers"
+msgstr ""
+
+#: views/admin/subscribers/form.php:6
+msgid "SMSAPI subscribers edit"
+msgstr ""
+
+#: routing.php:16 ajax/subscription.php:81 ajax/subscription.php:100
+#: ajax/subscription.php:160 ajax/subscription.php:191
+#: ajax/subscription.php:216
+msgid "Something went wrong. Please try again later."
+msgstr ""
+
+#: views/admin/gateway/index.php:33
+msgid "Specified"
+msgstr ""
+
+#: views/front/_subscribe_form.php:52 views/front/_subscribe_form.php:59
+#: views/front/_unsubscribe_form.php:10
+msgid "Subscribe"
+msgstr ""
+
+#: subscribers.php:94
+msgid "Subscriber was removed"
+msgstr ""
+
+#: subscribers.php:59
+msgid "Subscriber was unpinned from the group"
+msgstr ""
+
+#: smsapi.php:55
+msgid "Subscribers"
+msgstr ""
+
+#: subscribers.php:72
+msgid "Subscribers ware unpinned from the group."
+msgstr ""
+
+#: subscribers.php:107 subscribers.php:121
+msgid "Subscribers were removed"
+msgstr ""
+
+#: subscribers.php:83
+msgid "Subscribers were unpinned from the group."
+msgstr ""
+
+#: views/admin/settings/tabs.php:10
+msgid "Subscription"
+msgstr ""
+
+#: ajax/subscription.php:187
+msgid "Subscription cancellation code was sent to your phone number."
+msgstr ""
+
+#: views/admin/settings/notifications.php:12
+msgid "Subscription notification"
+msgstr ""
+
+#: ajax/subscription.php:47 ajax/subscription.php:108
+msgid "Subscription successful"
+msgstr ""
+
+#: views/admin/settings/subscription.php:8
+msgid "Subscription verification"
+msgstr ""
+
+#: ajax/subscription.php:163
+msgid "The provided phone number is incorrect."
+msgstr ""
+
+#: views/admin/widget_form.php:4
+msgid "The widget will not be visible until plugin is configured."
+msgstr ""
+
+#: views/admin/widget_form.php:9
+msgid "Title"
+msgstr ""
+
+#: views/admin/subscribers/list.php:47 views/admin/subscribers/list.php:72
+#: views/admin/subscribers/list.php:78
+msgid "Unpin"
+msgstr ""
+
+#: views/front/_subscribe_form.php:55 views/front/_unsubscribe_form.php:13
+#: views/front/_unsubscribe_form.php:17
+msgid "Unsubscribe"
+msgstr ""
+
+#: ajax/subscription.php:71
+msgid "Your activation code is"
+msgstr ""
+
+#: ajax/subscription.php:180
+msgid "Your subscription cancellation code is"
+msgstr ""

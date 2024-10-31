@@ -1,0 +1,38 @@
+#smsapi-widget-request-result {
+    color: #41a62a;
+}
+
+.smsapi-form > div {
+    margin-bottom: 15px;
+}
+
+button.smsapi-submit {
+    float: left;
+    margin-right: 15px;
+}
+
+span.smsapi-form-loading {
+    display: none;
+    float: left;
+    width: 40px;
+    height: 40px;
+    background: url("../images/loading.gif") no-repeat scroll center center rgba(0, 0, 0, 0);
+    background-size: 40px 40px;
+}
+
+.smsapi-form-hidden {
+    display: none;
+}
+
+.smsapi-input-error {
+    color: #ac1b1b;
+    font-size: 12px;
+}
+
+.hidden {
+    display: none;
+}
+
+.help-text {
+    font-size: 12px;
+}
